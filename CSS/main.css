@@ -1,0 +1,38 @@
+.site-header{
+  background-image: url(https://wallpaperdesigns.ml/wp-content/uploads/2018/10/1539147395_154_10-schnelle-Tipps-f%C3%BCr-Make-up.jpg);
+  background-position: center;
+  background-size: cover;
+
+  color: #a6a6a6;
+  height: 100vh;
+  font-family: cursive;
+  justify-content: center;
+  align-items: center;display: flex;
+  flex-direction: column;
+
+
+  }
+
+.site-header-content{
+  margin: 10px;
+  height: 100vh;
+  overflow: scroll;
+}
+
+.link-content{
+  background-image: url(http://ongur.com/wp-content/uploads/2014/04/Abstract-Tru-Llove-Hand-Connection-Wallpapers-HD.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  align-self: center;
+  box-shadow: #191919 2px 5px 5px;
+}
+
+body{
+  margin: 0;
+}
